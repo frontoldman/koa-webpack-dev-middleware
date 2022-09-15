@@ -1,15 +1,15 @@
 {
   "name": "koa-webpack-dev-middleware",
-  "version": "1.4.6",
+  "version": "1.4.7",
   "description": "webpack dev middleware for koa",
   "keywords": [
     "koa",
     "webpack",
     "middleware"
   ],
-  "main": "lib/index",
+  "main": "src/index",
   "files": [
-    "lib"
+    "src"
   ],
   "homepage": "http://github.com/yiminghe/koa-webpack-dev-middleware",
   "author": "yiminghe@gmail.com",

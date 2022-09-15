@@ -12,7 +12,7 @@ function middleware(doIt, req, res) {
     };
     doIt(req, res, () => {
       done(null, 1);
-    })
+    });
   };
 }
 
